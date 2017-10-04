@@ -7,7 +7,6 @@ module.exports = (wallaby) => {
       {pattern: 'modules/**/node_modules/**', ignore: true},
       {pattern: 'modules/**/imports/**', ignore: true},
       {pattern: 'modules/**/*-spec.js', ignore: true},
-      'modules/atlassian-plugin/atlassian-connect.json',
       'modules/**/*.js'
     ],
     tests: [
