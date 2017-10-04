@@ -1,0 +1,1 @@
+import x from './vendor/parse-xml/src'
